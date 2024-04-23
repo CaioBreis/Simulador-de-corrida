@@ -8,4 +8,4 @@ A classe `corrida` contém o método `main`, onde a lógica da corrida é implem
 
 Ao final da corrida, o método `vencedor` é chamado para determinar e exibir o resultado da corrida com base na velocidade alcançada por cada carro.
 
-É um exemplo simples de simulação de corrida que usa conceitos básicos de orientação a objetos, laços de repetição e geração de números aleatórios.
+É um exemplo de simulação de corrida que usa conceitos de orientação a objetos, laços de repetição e geração de números aleatórios.
