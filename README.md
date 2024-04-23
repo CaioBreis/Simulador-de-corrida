@@ -1,3 +1,5 @@
+## Simulador de corrida
+
 Este código é um simulador de corrida entre dois carros, representados pela classe `carro`. Cada carro tem um nome e uma velocidade inicial de zero. Eles competem em uma corrida até atingirem uma determinada velocidade de chegada.
 
 A classe `carro` possui métodos para acelerar e obter informações como a velocidade atual e o nome do carro. O método `acelerar` incrementa a velocidade do carro de forma aleatória em um valor entre 1 e 3 a cada chamada.
